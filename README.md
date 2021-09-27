@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 #### Approach
-### Used Modern React with Typescript template
+
+#### Used Modern React with Typescript template
 #### Used context to store the cart
 #### Added a couple of tests for Products and ProductItem components using React Testing Library and Mock Service Worker
 #### Used semantics and added aria-label to button that don't contain text
