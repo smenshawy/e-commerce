@@ -15,7 +15,7 @@ In the project directory, you can run:
 
 Install the packages locally
 
-### `.env'
+### `.env`
 
 Add .env file then add REACT_APP_API_TOKEN variable and give it a token value for the APIs to work
 
