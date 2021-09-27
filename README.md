@@ -3,6 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+## Approach
+### Used Modern React with Typescript template
+### Used context to store the cart
+### Added a couple of tests for Products and ProductItem components
+### Used semantics and added aria-label to button that don't contain text
+
 In the project directory, you can run:
 
 ### `yarn start`
@@ -17,9 +23,4 @@ Launches the test runner in the interactive watch mode.
 
 Builds the app for production to the `build` folder.
 
-## Approach
-### Used Modern React with Typescript template
-### Used context to store the cart
-### Added a couple of tests for Products and ProductItem components
-### Used semantics and added aria-label to button that don't contain text
 
