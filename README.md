@@ -9,26 +9,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### Added a couple of tests for Products and ProductItem components using React Testing Library and Mock Service Worker
 #### Used semantics and added aria-label to button that don't contain text
 
-In the project directory, you can run:
-
-#### `yarn install`
-
-Install the packages locally
 
 ### `.env`
 
 Add .env file then add REACT_APP_API_TOKEN variable and give it a token value for the APIs to work
 
-#### `yarn start`
+#### `yarn install` or `npm install`
+
+Install the packages locally
+
+#### `yarn start` or `npm start`
 
 Runs the app in the development mode.
 
-#### `yarn test`
+#### `yarn test` or `npm test`
 
 Launches the test runner in the interactive watch mode.
 
-#### `yarn build`
-
-Builds the app for production to the `build` folder.
 
 
